@@ -1,4 +1,3 @@
-# FinTechM11Challenge
 Module 11 Challenge: MercadoLibre Analysis
 ---
 This challenge work consists of analyzing MercadoLibre's financials and different user data to find new ways to make the company grow.
